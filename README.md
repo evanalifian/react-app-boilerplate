@@ -17,10 +17,14 @@ This bolerplate also supports MDX extension, so you can make page with markdown 
 
 To start your own React app, you can clone this project by copying this command:
 
-`git clone https://github.com/evanalifian/react-app-boilerplate.git <optional: your-project-name>`
+```bash
+git clone https://github.com/evanalifian/react-app-boilerplate.git <optional: your-project-name>
+```
 
 After you clone this project, go into your project folder and install all depedencies by following this command:
 
-`npm install`
+```
+npm install
+```
 
 Now, you can start to create React app.
